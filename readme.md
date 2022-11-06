@@ -1,5 +1,4 @@
-
-
+# Testimonial Grid
 ## Usage
 
 Install dependencies
